@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbVKfUnclfarD+DPpUIWvdViwccG68yN4PquvF93hV71kdaBuDHq3ZJvaLyQ1Abie5jlVzoppCDV/8clfJqk8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kpras\\OneDrive\\ドキュメント\\doc\\kotlin\\logic\\plane\\plane.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kpras\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\kpras\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
